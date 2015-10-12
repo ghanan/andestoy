@@ -52,4 +52,11 @@ public class MainActivity extends Activity {
         }
     }
 
+    public void terminar(View v) {
+        finish();
+    }
 }
+
+//http://expocodetech.com/descargar-datos-de-un-servidor-en-android/
+//http://expocodetech.com/enviar-datos-a-un-servidor-desde-android/
+///home/atc/Dropbox/movil/android/ECTUploadData.zip
