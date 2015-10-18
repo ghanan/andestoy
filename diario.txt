@@ -1,4 +1,8 @@
 PLAN
+leer la hora
+componer cadena
 enviarlas al servidor y que las grabe
+averiguar como repetir
+averiguar como convertir en servicio y pararlo
 
 Muestra las coordenadas en pantalla

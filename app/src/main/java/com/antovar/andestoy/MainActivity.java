@@ -46,10 +46,15 @@ public class MainActivity extends Activity {
             //double lngi = punto.getLongitude();
             lat.setText("Lat: " + punto.getLatitude());
             lng.setText("Lon: " + punto.getLongitude());
+            enviar();
         } else {
             lat.setText("--");
             lng.setText("--");
         }
+    }
+
+    private void enviar() {
+
     }
 
     public void terminar(View v) {
