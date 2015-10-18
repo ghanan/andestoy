@@ -1,0 +1,4 @@
+PLAN
+enviarlas al servidor y que las grabe
+
+Muestra las coordenadas en pantalla
